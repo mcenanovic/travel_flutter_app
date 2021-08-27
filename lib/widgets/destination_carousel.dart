@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
-import 'package:travel_app/models/destination.dart';
-import 'package:travel_app/screens/destination_screen.dart';
+import '../models/destination.dart';
+import '../screens/destination_screen.dart';
 
 class DestinationCarousel extends StatelessWidget {
   const DestinationCarousel({Key? key}) : super(key: key);

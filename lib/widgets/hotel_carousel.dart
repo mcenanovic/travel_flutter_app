@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:font_awesome_flutter/font_awesome_flutter.dart';
-import 'package:travel_app/models/hotel.dart';
+import '../models/hotel.dart';
 
 class HotelCarousel extends StatelessWidget {
   const HotelCarousel({Key? key}) : super(key: key);

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
-import 'package:travel_app/models/destination.dart';
+import '../models/destination.dart';
 
 class DestinationScreen extends StatefulWidget {
   final Destination destination;

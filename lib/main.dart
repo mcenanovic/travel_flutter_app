@@ -7,12 +7,11 @@ void main() {
 }
 
 class MyApp extends StatelessWidget {
-  // This widget is the root of your application.
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'Flutter Travel App',
-      debugShowCheckedModeBanner: true,
+      debugShowCheckedModeBanner: false,
       theme: ThemeData(
         primaryColor: Color(0xFF3EBACE),
         accentColor: Color(0xFFD8ECF1),

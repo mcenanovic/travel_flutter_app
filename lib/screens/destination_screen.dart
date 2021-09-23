@@ -156,7 +156,7 @@ class _DestinationScreenState extends State<DestinationScreen> {
                     children: [
                       Container(
                         margin: const EdgeInsets.fromLTRB(40.0, 5.0, 20.0, 5.0),
-                        height: 170.0,
+                        height: 160.0,
                         width: double.infinity,
                         decoration: BoxDecoration(
                           color: Colors.white,
